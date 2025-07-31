@@ -24,23 +24,21 @@
 
 ---
 
-<h3>▶️ How to Run</h3>
+<h3> How to Run</h3>
 
-<p>
-💻 <strong>Requirements</strong><br>
+<p><strong>Requirements</strong><br>
 - Python 3 installed
 </p>
 
-<p>
-📥 <strong>Run the Script</strong><br>
+<p> <strong>Run the Script</strong><br>
 1. Save the code to a file named <code>todo_list.py</code><br>
 2. Open a terminal or command prompt<br>
 3. Run the script:
 </p>
 
-```bash
+
 python todo_list.py
-<h3>🔍 Example Output</h3>
+<h3> Example Output</h3>
 
 Enter a command (add,view,remove,exit): add
 Enter the task: Study Python
@@ -52,5 +50,6 @@ Study Python
 Enter a command (add,view,remove,exit): remove
 Enter a task: Study Python
 Task removed.
-<h3>🛠 Technologies Used</h3> <li>🐍 Python 3</li> <li>🔁 while loops</li> <li>📥 Input & Output handling</li> <li>📋 List data structure</li>
-<h3>👨‍💻 Author</h3> <p>Made with ❤️ by Youssef Talaat</p> ```
+<h3> Technologies Used</h3>
+<li> Python 3</li> 
+<h3>👨‍💻 Author</h3> <p>Madeby Youssef Talaat</p>
